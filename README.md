@@ -1,4 +1,4 @@
-**Projekt Data Science: Analiza Opóźnień Lotów w Stanach Zjednoczonych**
+# Projekt Data Science: Analiza Opóźnień Lotów w Stanach Zjednoczonych
 
 ---
 
