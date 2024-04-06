@@ -4,6 +4,10 @@ library("dplyr")
 library("ggplot2")
 library("plyr")
 
+#dane można pobrać z:
+#https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+
+
 
 airports <- read.csv("~/RStudio/PDU/PD4/airports.csv")
 carriers <- read.csv("~/RStudio/PDU/PD4/carriers.csv")
